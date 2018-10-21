@@ -1,0 +1,702 @@
+[
+  {
+    "id": 8113888,
+    "name": "г. Зеленоград, ул. Болдов Ручей, д. 1130",
+    "props": {
+      "area": null,
+      "gaz": null,
+      "heat": null,
+      "power": null,
+      "drainage": null,
+      "water_hot": null,
+      "water_cold": null,
+      "performed_work": null
+    }
+  },
+  {
+    "id": 7720237,
+    "name": "г. Зеленоград, ул. Гоголя, д. 11А",
+    "props": {
+      "area": 4610.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 1064420.0
+    }
+  },
+  {
+    "id": 7721720,
+    "name": "г. Зеленоград, ул. Гоголя, д. 11Б",
+    "props": {
+      "area": 3340.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 782190.0
+    }
+  },
+  {
+    "id": 7721725,
+    "name": "г. Зеленоград, ул. Гоголя, д. 11В",
+    "props": {
+      "area": 3204.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 750070.0
+    }
+  },
+  {
+    "id": 7856622,
+    "name": "г. Зеленоград, ул. Филаретовская, д. 1143",
+    "props": {
+      "area": 10354.0,
+      "gaz": null,
+      "heat": null,
+      "power": null,
+      "drainage": null,
+      "water_hot": null,
+      "water_cold": null,
+      "performed_work": 0.0
+    }
+  },
+  {
+    "id": 7721799,
+    "name": "г. Зеленоград, д. 1001",
+    "props": {
+      "area": 10335.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 3038750.0
+    }
+  },
+  {
+    "id": 7721800,
+    "name": "г. Зеленоград, д. 1002",
+    "props": {
+      "area": 10352.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 3042970.0
+    }
+  },
+  {
+    "id": 7721801,
+    "name": "г. Зеленоград, д. 1003",
+    "props": {
+      "area": 20519.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 6040160.0
+    }
+  },
+  {
+    "id": 7721803,
+    "name": "г. Зеленоград, д. 1004",
+    "props": {
+      "area": 29996.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 838690.0
+    }
+  },
+  {
+    "id": 7721808,
+    "name": "г. Зеленоград, д. 1005",
+    "props": {
+      "area": 20675.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 5560270.0
+    }
+  },
+  {
+    "id": 7721809,
+    "name": "г. Зеленоград, д. 1006",
+    "props": {
+      "area": 20658.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 6071080.0
+    }
+  },
+  {
+    "id": 7721810,
+    "name": "г. Зеленоград, д. 1007",
+    "props": {
+      "area": 11075.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 3257380.0
+    }
+  },
+  {
+    "id": 7721811,
+    "name": "г. Зеленоград, д. 1012",
+    "props": {
+      "area": 20583.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 6049780.0
+    }
+  },
+  {
+    "id": 7721814,
+    "name": "г. Зеленоград, д. 1013",
+    "props": {
+      "area": 10269.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 3014100.0
+    }
+  },
+  {
+    "id": 7721815,
+    "name": "г. Зеленоград, д. 1014",
+    "props": {
+      "area": 10275.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2766430.0
+    }
+  },
+  {
+    "id": 7721816,
+    "name": "г. Зеленоград, д. 1015",
+    "props": {
+      "area": 20707.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 6081970.0
+    }
+  },
+  {
+    "id": 7721818,
+    "name": "г. Зеленоград, д. 1101",
+    "props": {
+      "area": 9988.0,
+      "gaz": null,
+      "heat": 3.23,
+      "power": 1944.62,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2675560.0
+    }
+  },
+  {
+    "id": 7721820,
+    "name": "г. Зеленоград, д. 1102",
+    "props": {
+      "area": 10029.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2696510.0
+    }
+  },
+  {
+    "id": 7721821,
+    "name": "г. Зеленоград, д. 1103",
+    "props": {
+      "area": 9936.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2671940.0
+    }
+  },
+  {
+    "id": 7721822,
+    "name": "г. Зеленоград, д. 1106",
+    "props": {
+      "area": 43528.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 11574690.0
+    }
+  },
+  {
+    "id": 7721823,
+    "name": "г. Зеленоград, д. 1107",
+    "props": {
+      "area": 10100.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2962500.0
+    }
+  },
+  {
+    "id": 7721824,
+    "name": "г. Зеленоград, д. 1108",
+    "props": {
+      "area": 10111.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2726680.0
+    }
+  },
+  {
+    "id": 7721825,
+    "name": "г. Зеленоград, д. 1110",
+    "props": {
+      "area": 10068.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2708660.0
+    }
+  },
+  {
+    "id": 7721827,
+    "name": "г. Зеленоград, д. 1111",
+    "props": {
+      "area": 10058.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2708030.0
+    }
+  },
+  {
+    "id": 7721829,
+    "name": "г. Зеленоград, д. 1113",
+    "props": {
+      "area": 11516.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2910470.0
+    }
+  },
+  {
+    "id": 7721832,
+    "name": "г. Зеленоград, д. 1114",
+    "props": {
+      "area": 9886.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2910470.0
+    }
+  },
+  {
+    "id": 7721833,
+    "name": "г. Зеленоград, д. 1116",
+    "props": {
+      "area": 10054.0,
+      "gaz": null,
+      "heat": 2101.52,
+      "power": 1.15,
+      "drainage": 23.43,
+      "water_hot": 163.24,
+      "water_cold": 33.03,
+      "performed_work": 2887287.42
+    }
+  },
+  {
+    "id": 7721835,
+    "name": "г. Зеленоград, д. 1118",
+    "props": {
+      "area": 10051.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2954070.0
+    }
+  },
+  {
+    "id": 7721840,
+    "name": "г. Зеленоград, д. 1121",
+    "props": {
+      "area": 45146.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 1207807.0
+    }
+  },
+  {
+    "id": 7721841,
+    "name": "г. Зеленоград, д. 1126",
+    "props": {
+      "area": 41034.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 1207807.0
+    }
+  },
+  {
+    "id": 7721842,
+    "name": "г. Зеленоград, д. 1129",
+    "props": {
+      "area": 28378.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 833226.0
+    }
+  },
+  {
+    "id": 7721843,
+    "name": "г. Зеленоград, д. 1131",
+    "props": {
+      "area": 38668.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 1106790.0
+    }
+  },
+  {
+    "id": 7721844,
+    "name": "г. Зеленоград, д. 1132",
+    "props": {
+      "area": 27868.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 743167.0
+    }
+  },
+  {
+    "id": 7721845,
+    "name": "г. Зеленоград, д. 1133",
+    "props": {
+      "area": 17868.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 151.36,
+      "water_hot": 21.9,
+      "water_cold": 30.86,
+      "performed_work": 479365.0
+    }
+  },
+  {
+    "id": 9362893,
+    "name": "г. Зеленоград, д. 1135, к. 1135",
+    "props": {
+      "area": 10056.0,
+      "gaz": null,
+      "heat": null,
+      "power": null,
+      "drainage": null,
+      "water_hot": null,
+      "water_cold": null,
+      "performed_work": 0.0
+    }
+  },
+  {
+    "id": 7721847,
+    "name": "г. Зеленоград, д. 1136",
+    "props": {
+      "area": 10135.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 297571.0
+    }
+  },
+  {
+    "id": 7721848,
+    "name": "г. Зеленоград, д. 1201",
+    "props": {
+      "area": 10007.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2940900.0
+    }
+  },
+  {
+    "id": 7721849,
+    "name": "г. Зеленоград, д. 1202",
+    "props": {
+      "area": 10089.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2713860.0
+    }
+  },
+  {
+    "id": 7721850,
+    "name": "г. Зеленоград, д. 1203",
+    "props": {
+      "area": 10050.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2703610.0
+    }
+  },
+  {
+    "id": 7721851,
+    "name": "г. Зеленоград, д. 1204",
+    "props": {
+      "area": 21649.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 6372040.0
+    }
+  },
+  {
+    "id": 7721852,
+    "name": "г. Зеленоград, д. 1205",
+    "props": {
+      "area": 8709.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2557610.0
+    }
+  },
+  {
+    "id": 7721853,
+    "name": "г. Зеленоград, д. 1206",
+    "props": {
+      "area": 19132.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 5622360.0
+    }
+  },
+  {
+    "id": 7721854,
+    "name": "г. Зеленоград, д. 1207",
+    "props": {
+      "area": 10891.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 8545264.0
+    }
+  },
+  {
+    "id": 7721855,
+    "name": "г. Зеленоград, д. 1208",
+    "props": {
+      "area": 8223.0,
+      "gaz": null,
+      "heat": 1944.6,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2210050.0
+    }
+  },
+  {
+    "id": 7721856,
+    "name": "г. Зеленоград, д. 1209",
+    "props": {
+      "area": 16474.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 4839100.0
+    }
+  },
+  {
+    "id": 7721857,
+    "name": "г. Зеленоград, д. 1210",
+    "props": {
+      "area": 10016.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2693700.0
+    }
+  },
+  {
+    "id": 7721858,
+    "name": "г. Зеленоград, д. 1211",
+    "props": {
+      "area": 9969.0,
+      "gaz": null,
+      "heat": 151.36,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2929950.0
+    }
+  },
+  {
+    "id": 7721859,
+    "name": "г. Зеленоград, д. 1212",
+    "props": {
+      "area": 10106.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2970300.0
+    }
+  },
+  {
+    "id": 7721860,
+    "name": "г. Зеленоград, д. 1213",
+    "props": {
+      "area": 10028.0,
+      "gaz": null,
+      "heat": 1944.62,
+      "power": 3.23,
+      "drainage": 21.9,
+      "water_hot": 151.36,
+      "water_cold": 30.86,
+      "performed_work": 2947690.0
+    }
+  },
+  {
+    "id": 9336072,
+    "name": "г. Зеленоград, д. корп.1117",
+    "props": {
+      "area": null,
+      "gaz": null,
+      "heat": null,
+      "power": null,
+      "drainage": null,
+      "water_hot": null,
+      "water_cold": null,
+      "performed_work": null
+    }
+  }
+]
